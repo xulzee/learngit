@@ -33,7 +33,7 @@ sudo pip install genpac
 
 依次点击 `connection` >  `Add` > `Scan QR on Screen`
 
-![Screenshot from 2017-11-22 11-10-28](https://i.loli.net/2017/11/22/5a150ae9eb821.png)
+
 
 建议使用域名作为 Server Address
 将得自由中我的服务界面滑到最下方，找到ip对应的域名地址。
@@ -81,7 +81,3 @@ file:///home/用户名/autoproxy.pac
 - 试试能不能访问[Google](https://www.google.com/)
 - 还可以将`shadowsocks-qt5`设为开机启动,依次点击`settings`>`General settings`>`start at login`
 ![Screenshot from 2017-11-22 13-00-08](https://i.loli.net/2017/11/22/5a150dbb9237f.png)
-- 二维码
-![Screenshot from 2017-11-22 13-00-472](https://i.loli.net/2017/11/22/5a150dd7628a9.png)
-![Screenshot from 2017-11-22 13-00-47](https://i.loli.net/2017/11/22/5a150dd7628ab.png)
-![Screenshot from 2017-11-22 13-00-471](https://i.loli.net/2017/11/22/5a150dd76b746.png)
