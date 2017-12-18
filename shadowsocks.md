@@ -24,7 +24,6 @@ sudo pip install genpac
 ## 3.配置shadowsock-qt5
 1. 同时打开[得自由](https://devpn.info/)（没有账号的可以用文末所给的二维码），点击右上角`用户名`>`我的服务`>按住`ctrl`并滑动滚轮使二维码占据整个屏幕，然后放着不动，进行下一步。
 
-![Screenshot from 2017-11-22 10-56-50](https://ooo.0o0.ooo/2017/11/22/5a150a1beda26.png)
 
 2. 打开`shadowsock-qt5`
 
